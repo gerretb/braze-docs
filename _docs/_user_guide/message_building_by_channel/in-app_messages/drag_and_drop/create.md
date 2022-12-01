@@ -32,7 +32,15 @@ The initialization option [`allowUserSuppliedJavascript`](https://js.appboycdn.c
 
 Create a new in-app message or Canvas step, then select **Drag & Drop Editor** as your editing experience.
 
-## Step 2: Build and design your in-app message
+## Step 2: Select your template
+
+After selecting the Drag & Drop Editor as your editing experience, you can choose to:
+- Use a Braze basic modal template
+- Start with a blank modal template
+
+Click **Build message** to begin designing your in-app message in the Drag & Drop Editor!
+
+## Step 3: Build and design your in-app message
 
 The drag & drop editing experience is divided into two sections: **Build** and **Preview & Test**.
 
