@@ -1,4 +1,4 @@
-# Welcome to Braze Docs!
+# Welcome to Braze Docs! 
 
 This is where you can contribute to the [Braze Documentation site](http://www.braze.com/docs).
 
